@@ -1,0 +1,119 @@
+[[Zenohd]]
+arch = "aarch64"
+git-tree-sha1 = "285dd5204aa1ec42aabdf4ccb54bfba124edf67c"
+os = "macos"
+
+    [[Zenohd.download]]
+    sha256 = "c7e3c515b28b19deff7fe9e5fee1fb1d4e56104c7bb6e5312b0ebcb89d6efc2a"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.aarch64-apple-darwin.tar.gz"
+[[Zenohd]]
+arch = "aarch64"
+git-tree-sha1 = "4493fca5638a14fe53222c81009aed816fad0d8e"
+libc = "glibc"
+os = "linux"
+
+    [[Zenohd.download]]
+    sha256 = "7ba6916072584a628141ef8447fb206f0edc44df26b3b86764a5fad5aaa4eb23"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.aarch64-linux-gnu.tar.gz"
+[[Zenohd]]
+arch = "aarch64"
+git-tree-sha1 = "1216ffef2acb7c98735a0bd33c3286552306665d"
+libc = "musl"
+os = "linux"
+
+    [[Zenohd.download]]
+    sha256 = "4295b7ad81b3210376af7903852cec7a8777868ffd14f8b8c31a3ea8574c46b0"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.aarch64-linux-musl.tar.gz"
+[[Zenohd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "97e481da81f54f524cc150c8457e54409bd043f2"
+libc = "glibc"
+os = "linux"
+
+    [[Zenohd.download]]
+    sha256 = "0dfe07fae65f56245ff9d8342481771fdb2d949a1e40cd415d90ef8d32a83cff"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.armv6l-linux-gnueabihf.tar.gz"
+[[Zenohd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "127b81b96abf5b3897019aa5bebd8092cceec494"
+libc = "musl"
+os = "linux"
+
+    [[Zenohd.download]]
+    sha256 = "c7162ac25593fca2191759f3c52b58cde8c754606031192e0ce9418cf696de11"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.armv6l-linux-musleabihf.tar.gz"
+[[Zenohd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c6d304d7d08bd780883141cecf6f24aeb545b82e"
+libc = "glibc"
+os = "linux"
+
+    [[Zenohd.download]]
+    sha256 = "5ac5ff0d6874d016b7f70a6c0953951068be0ea0bee15b21c48257a38db3894f"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.armv7l-linux-gnueabihf.tar.gz"
+[[Zenohd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1ef6379a13e2b8486d9467cba3988645b13f5b3a"
+libc = "musl"
+os = "linux"
+
+    [[Zenohd.download]]
+    sha256 = "5f7f2c9a840a06fff536a621f526015c0552757ed944c5890e8b8ba334c39118"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.armv7l-linux-musleabihf.tar.gz"
+[[Zenohd]]
+arch = "i686"
+git-tree-sha1 = "97cb80c5508170d84f7634c45445a20c706d5fe0"
+libc = "glibc"
+os = "linux"
+
+    [[Zenohd.download]]
+    sha256 = "8a0923ef8dc119ced3b12fb2ee9aaaaac75d755a13eb085ce25177e00490a5bc"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.i686-linux-gnu.tar.gz"
+[[Zenohd]]
+arch = "i686"
+git-tree-sha1 = "e00c5f264d52d9704df34ea013b294998d9d043b"
+libc = "musl"
+os = "linux"
+
+    [[Zenohd.download]]
+    sha256 = "2081263edb28ddf6d640a9931453424cfcc45a910df4d8b5bf119c11bda08d58"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.i686-linux-musl.tar.gz"
+[[Zenohd]]
+arch = "powerpc64le"
+git-tree-sha1 = "a1a9cf6e951af82356feaef31dec7423f52f8f8d"
+libc = "glibc"
+os = "linux"
+
+    [[Zenohd.download]]
+    sha256 = "ad2fa298c52443f3c20334627266ae9a9ffa7f63484dbfb8b27b69577494253f"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.powerpc64le-linux-gnu.tar.gz"
+[[Zenohd]]
+arch = "x86_64"
+git-tree-sha1 = "c8d865394971aa154057c1739eb3f5795f69f4db"
+libc = "glibc"
+os = "linux"
+
+    [[Zenohd.download]]
+    sha256 = "0d2c336ab9855bd1fc3f996f38e8dc3a0540089cdd2b5dcef854311c2bd143b3"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.x86_64-linux-gnu.tar.gz"
+[[Zenohd]]
+arch = "x86_64"
+git-tree-sha1 = "0a4cd957b798bac1a2d166655153d73a85b5ca90"
+libc = "musl"
+os = "linux"
+
+    [[Zenohd.download]]
+    sha256 = "06510fadf0a0875c579a8cf66c259629ff70e41cab51757fba0c5d2a82b3d977"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.x86_64-linux-musl.tar.gz"
+[[Zenohd]]
+arch = "x86_64"
+git-tree-sha1 = "aae2db29fae3b5e6d13f2b610af51db054ce3de7"
+os = "windows"
+
+    [[Zenohd.download]]
+    sha256 = "7bf523a353cd0b4c7183ff454af9ccf8599a99c5e18101ae775d108124845b73"
+    url = "https://github.com/JuliaBinaryWrappers/Zenohd_jll.jl/releases/download/Zenohd-v1.3.4+0/Zenohd.v1.3.4.x86_64-w64-mingw32.tar.gz"
